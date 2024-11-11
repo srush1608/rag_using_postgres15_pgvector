@@ -1,0 +1,8 @@
+venv/
+.env/
+task1/.env/
+task1/venv/
+task2/.env/
+tsk2/venv/
+tsk3/.env
+task3/venv
